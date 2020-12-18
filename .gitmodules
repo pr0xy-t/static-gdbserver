@@ -1,0 +1,6 @@
+[submodule "gdb-static"]
+	path = gdb-static
+	url = https://github.com/hugsy/gdb-static.git
+[submodule "gdb-static-cross"]
+	path = gdb-static-cross
+	url = https://github.com/stayliv3/gdb-static-cross.git
